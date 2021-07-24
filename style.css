@@ -1,0 +1,14 @@
+body {
+    background-image: url("starry\ sky.png");
+    font-family: 'Kalam', cursive;
+}
+h1 {
+   color: deepskyblue;
+}
+button {
+    background-color: lightgreen;
+    color: darkgreen;
+}
+canvas {
+    border: 10px  double mediumturquoise;
+}
